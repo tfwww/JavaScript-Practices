@@ -1,2 +1,2 @@
 # JavaScript-Practices
-Here's the JavaScript practices
+Here's the JavaScript practices.
